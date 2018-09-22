@@ -89,7 +89,7 @@
 ## Uml cliente en android studio
 
 ### Main
-+ **main (String[] ): void:** Con este metodo se ejecuta la aplicacion
++ **onCreate (Bundle): void:** Con este metodo se ejecuta la aplicacion
 + **Botones () : void** Con este metodo se detectan las acciones de los botones
 
 ### Cliente
